@@ -1,5 +1,4 @@
-from jhuangmcpylib.jsontext.Text import Text, TextList, Color, HoverEvent, ClickEvent, ClickEventOption
-from jhuangmcpylib.jsontext.Selector import Keybind
+from jhuangmcpylib.jsontext.Text import Text, TextList, Color, HoverEvent, ClickEvent, ClickEventOption, Keybind
 
 from dataclasses import dataclass
 from typing import TypedDict
